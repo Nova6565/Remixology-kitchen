@@ -1,2 +1,2 @@
 # Remixology-kitchen
-Advanced web-based system to help users with meal planning and reducing food waste.
+The Smart Meal Planner is an innovative web-based application designed to assist users in meal planning while minimizing food waste. This system leverages an intelligent recipe recommendation engine that tailors suggestions based on user-supplied ingredients, dietary preferences, and past behavior. With a focus on user experience and functionality, the platform features a responsive and interactive interface crafted with Java, JSP, Java Servlets, HTML, CSS, and JavaScript, ensuring accessibility and ease of use across various devices.
